@@ -1,0 +1,15 @@
+1. Nmap
+2. ng-recon
+3.vega
+4.openvas
+5.nikto
+6.leveraging samurai
+7.contrast security
+8.open Scap
+9.Hydra
+10.Jhon the Ripper
+11.set
+12.Wfuzz
+13.shodan
+14.BeEf
+15.Aircrack-ng
