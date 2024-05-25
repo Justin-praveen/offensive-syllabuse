@@ -13,3 +13,8 @@
 13.shodan
 14.BeEf
 15.Aircrack-ng
+16.Mimikat
+17.Responsder
+18.Powersploit
+19.BloodHound
+20.exploitDb
