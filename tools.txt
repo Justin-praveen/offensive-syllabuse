@@ -18,3 +18,5 @@
 18.Powersploit
 19.BloodHound
 20.exploitDb
+21.metasploit
+22.cobalt strike
