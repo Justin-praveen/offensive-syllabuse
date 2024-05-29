@@ -21,3 +21,4 @@
 21.metasploit
 22.cobalt strike
 23.gplaycli
+24.lsof -p (cmd for android)
