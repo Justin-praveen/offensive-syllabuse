@@ -1,0 +1,11 @@
+1.apktool
+2.Genymotion or vm box
+3.Mobsec (Using Docker)
+4.adb
+5.jadx
+6.jd-gui
+7.dex2jar
+8.frida
+9.Ghirdha
+10.apklab(Vs code)
+
