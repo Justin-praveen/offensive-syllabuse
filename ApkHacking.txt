@@ -8,4 +8,4 @@
 8.frida
 9.Ghirdha
 10.apklab(Vs code)
-
+11.IDA-pro(if available)
