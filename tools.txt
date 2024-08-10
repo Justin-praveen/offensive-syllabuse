@@ -22,3 +22,4 @@
 22.cobalt strike
 23.gplaycli
 24.lsof -p (cmd for android)
+25.sublist3r
